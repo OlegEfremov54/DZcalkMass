@@ -42,6 +42,7 @@ class MainActivity : AppCompatActivity() {
         buttonCalculateBTN = findViewById(R.id.buttonCalculateBTN)
 
 
+
         buttonCalculateBTN.setOnClickListener{view ->
             if (heightET.text.isEmpty() ||
                 weightET.text.isEmpty() ||
