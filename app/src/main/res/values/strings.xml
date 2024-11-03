@@ -11,6 +11,6 @@
     <string name="button_back">Назад</string>
     <string name="easy_mass_body">Надо заставлять себя кушать</string>
     <string name="normal_mass_body">Все в норме</string>
-    <string name="medium_mass_body">Не плохо бы похудеть</string>
-    <string name="hard_mass_body">Надо меньше жрать</string>
+    <string name="medium_mass_body">Не плохо бы и похудеть</string>
+    <string name="hard_mass_body">Надо меньше жрать!!!</string>
 </resources>
