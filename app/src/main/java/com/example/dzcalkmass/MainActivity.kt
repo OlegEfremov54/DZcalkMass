@@ -33,8 +33,8 @@ class MainActivity : AppCompatActivity() {
 
         toolbarMain = findViewById(R.id.toolbarMain)
         setSupportActionBar(toolbarMain)
-        title = "ДЗ Индекс массы тела"
-        toolbarMain.subtitle = "Версия 1. Главная активити"
+        title = "  ДЗ Индекс массы тела"
+        toolbarMain.subtitle = "  Версия 1. Главная активити"
         toolbarMain.setLogo(R.drawable.krest)
 
         heightET = findViewById(R.id.heightET)

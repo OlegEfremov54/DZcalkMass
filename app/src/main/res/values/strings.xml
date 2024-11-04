@@ -3,12 +3,12 @@
     <string name="reset">Информация о программе</string>
     <string name="exit">Выход из приложения</string>
     <string name="button_calculate">Рассчитать</string>
-    <string name="edit_text_height">Введите рост в см</string>
-    <string name="edit_text_weight">Введите вес в кг</string>
+    <string name="edit_text_height">Ваш рост в см</string>
+    <string name="edit_text_weight">Ваш вес в кг</string>
     <string name="text_view_index_mass_body">Индекс массы тела</string>
-    <string name="text_view_info_for_weight_loss">Информация о диете</string>
+    <string name="text_view_info_for_weight_loss">Рекомендации по ведению здорового образа жизни</string>
     <string name="we_index_mass_body">Ваш индекс массы тела</string>
-    <string name="button_back">Назад</string>
+    <string name="button_back">Возврат в главное меню</string>
     <string name="easy_mass_body">Надо заставлять себя кушать</string>
     <string name="normal_mass_body">Все в норме</string>
     <string name="medium_mass_body">Не плохо бы и похудеть</string>

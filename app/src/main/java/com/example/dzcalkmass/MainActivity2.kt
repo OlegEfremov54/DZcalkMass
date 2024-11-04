@@ -34,8 +34,8 @@ class MainActivity2 : AppCompatActivity() {
         }
         toolbarSek = findViewById(R.id.toolbarSek)
         setSupportActionBar(toolbarSek)
-        title = "ДЗ Индекс массы тела"
-        toolbarSek.subtitle = "Версия 1. Вторая активити"
+        title = "  ДЗ Индекс массы тела"
+        toolbarSek.subtitle = "  Версия 1. Вторая активити"
         toolbarSek.setLogo(R.drawable.krest)
         indexMassBodyTV = findViewById(R.id.indexMassBodyTV)
         imageBodyTypeIV = findViewById(R.id.imageBodyTypeIV)
@@ -69,7 +69,7 @@ class MainActivity2 : AppCompatActivity() {
                 infoForWeightLossTV.setText(R.string.hard_mass_body)
             }
             else -> {
-                Snackbar.make(infoForWeightLossTV, "Данные введены неверно", Snackbar.LENGTH_SHORT).show()
+                Snackbar.make(infoForWeightLossTV, "Видимо какая то ошибка", Snackbar.LENGTH_SHORT).show()
                 val intent = Intent(this, MainActivity::class.java)
                 finish()
             }

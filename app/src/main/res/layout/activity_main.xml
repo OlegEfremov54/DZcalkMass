@@ -21,7 +21,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:hint="@string/edit_text_height"
-        android:padding="4pt"
+        android:padding="8pt"
         android:layout_margin="10sp"
         android:textSize="20sp"
         android:inputType="number"
@@ -37,7 +37,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:hint="@string/edit_text_weight"
-        android:padding="4pt"
+        android:padding="8pt"
         android:layout_margin="10sp"
         android:textSize="20sp"
         android:inputType="number"
@@ -53,10 +53,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/button_calculate"
-        android:textSize="24sp"
+        android:textSize="28sp"
         android:backgroundTint="@color/blue"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
